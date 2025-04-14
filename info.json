@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "latest_exe": "https://tonsite.com/releases/SilentSniper.exe",
+  "latest_exe": "https://github.com/bersam01/releases/download/v1.0/SilentSniper.exe",
   "valid_keys": {
     "ABC123-DEF455": "Admin",
     "SINGE26": "Elias",
